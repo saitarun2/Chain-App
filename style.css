@@ -402,6 +402,13 @@ section{
 
 }
 
-.pbottom .pricingl a:hover {
-    background-color: #4b8ef1;
+.bot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 3rem;
+}
+
+.bot img,p{
+    padding-top: 1rem;
 }
